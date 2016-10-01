@@ -1,0 +1,10 @@
+CHANGELOG.md
+CONTRIBUTORS
+Gemfile
+Gemfile.jruby-1.9.lock
+LICENSE
+NOTICE.TXT
+bin/
+lib/
+vendor/
+
